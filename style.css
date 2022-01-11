@@ -1,0 +1,38 @@
+body {
+    font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif;
+    color: white;
+    background-color: darkgreen;
+    font-weight: bold;
+    text-align: center;
+    line-height: 2em;
+}
+
+#message-el {
+    font-style: italic;
+}
+
+h1 {
+    color: goldenrod;
+}
+
+button {
+    background-color: darkgrey;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+.btn {
+    background-color: goldenrod;
+    color: darkgreen;
+    width: 150px;
+}
+
+.btn:hover {
+    background-color: rgb(150, 120, 20);
+}
