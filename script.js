@@ -7,6 +7,7 @@ let msg = '';
 let msgEl = document.querySelector('#msg-el');
 let sumEl = document.querySelector('#sum-el');
 let cardsEl = document.querySelector('#cards-el');
+startGame();
 
 function startGame() {
     cards = []
